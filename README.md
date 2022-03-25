@@ -139,6 +139,3 @@ Dor x falta no trabalho 2009.sav | Relação entre prevalência de dor e falta n
 satisfação equipamentos.sav | Satisfação com equipamentos eletrônicos | SPSS | 2014 | Acadêmico | 40 | 1 | 1 | 5 | 6 | Dados coletados em 2014 para fins acadêmicos
 Mestre dos Magos.sav | Segurança na web: Nível de informação da população | SPSS | 2019 | Acadêmico | 133 | 2 | 1 | 3 | 9 | Dados coletados em 2019 para fins acadêmicos
 dados mestrado.xlsx | Vendas reais no varejo ampliado - 2003 a 2014 | Excel/Statistica/Matlab | 2016 | Público | 144 | 1 |  |  |  | Dados obtidos no site do IPEADATA
-
-![image](https://user-images.githubusercontent.com/72157464/160187979-7a9b0251-71cf-4ad5-9ed5-9aaf3dc1c0fe.png)
-
