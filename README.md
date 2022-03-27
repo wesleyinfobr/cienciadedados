@@ -1,5 +1,5 @@
 # cienciadedados
-Banco de bases de dados, alimentado pelos colaboradores da comunidade CienciaDeDados.org
+Banco de bases de dados alimentado pelos colaboradores da comunidade CienciaDeDados.org
 
 Arquivo | Tema | Formato | Ano ref | Fonte | N respostas | Contínua | Discreta | Ordinal | Nominal | Descrição
 ---- | --------------- | -- | -- | ---- | -- | -- | -- | -- | -- | ---------- 
